@@ -1,16 +1,8 @@
-h2.intro {
-  width: 75%;
-  color: purple;
-  text-decoration: underline;
-}
-
-p.intro {
-  font-weight: bold;
-  width: 75%;
+.intro {
   color: red;
-}
-
-img.intro {
-  margin-left: 200px;
+  font-weight: bold;
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  width: 75%;
+  margin-left: 50px;
   position: relative;
 }
