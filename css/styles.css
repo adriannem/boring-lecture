@@ -1,0 +1,16 @@
+h2.intro {
+  width: 75%;
+  color: purple;
+  text-decoration: underline;
+}
+
+p.intro {
+  font-weight: bold;
+  width: 75%;
+  color: red;
+}
+
+img.intro {
+  margin-left: 200px;
+  position: relative;
+}
